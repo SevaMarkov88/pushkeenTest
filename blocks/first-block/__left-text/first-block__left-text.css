@@ -1,0 +1,14 @@
+.first-block__left-text {
+    display: grid;
+    grid-template-rows: 187px 48px 91px repeat(4, 48px);
+    grid-template-columns: 70px;
+    justify-items: center;
+    align-items: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 48px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #5D5D5D;
+}

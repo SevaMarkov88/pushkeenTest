@@ -16,6 +16,21 @@
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__link/_active/header__link_active.css);
 
+/* main-block */
+@import url(../blocks/main-block/main-block.css);
+
 /* first-block*/
 @import url(../blocks/first-block/first-block.css);
 @import url(../blocks/first-block/__title/first-block__title.css);
+@import url(../blocks/first-block/__text_blue/first-block__text_blue.css);
+@import url(../blocks/first-block/__text_blue/_left/first-block__text_blue_left.css);
+@import url(../blocks/first-block/__text_blue/_right/first-block__text_blue_right.css);
+@import url(../blocks/first-block/__text_blue/_number/first-block__text_blue_number.css);
+@import url(../blocks/first-block/__left-text/first-block__left-text.css);
+@import url(../blocks/first-block/__line/first-block__line.css);
+@import url(../blocks/first-block/__right_text/first-block__right-text.css);
+@import url(../blocks/first-block/__center/first-block__center.css);
+@import url(../blocks/first-block/__text/first-block__text.css);
+@import url(../blocks/first-block/__token/first-block__tokens.css);
+@import url(../blocks/first-block/__image-block/first-block__image-block.css);
+@import url(../blocks/first-block/__bottom/first-block__bottom.css);

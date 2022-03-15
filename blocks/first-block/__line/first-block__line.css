@@ -1,0 +1,6 @@
+.first-block__line {
+    border-bottom: 2px solid #5D5D5D;
+    transform: rotate(-90deg);
+    width: 91px;
+    height: 0;
+}

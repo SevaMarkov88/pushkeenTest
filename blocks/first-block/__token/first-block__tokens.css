@@ -1,0 +1,13 @@
+.first-block__tokens {
+    margin: 0 0 0 20px;
+    padding-left: 14px;
+    width: 384px;
+    background: #272727;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #04F1FF;
+}

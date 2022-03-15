@@ -1,0 +1,9 @@
+.first-block__right-text {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 48px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #5D5D5D;
+}
