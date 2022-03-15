@@ -34,3 +34,6 @@
 @import url(../blocks/first-block/__token/first-block__tokens.css);
 @import url(../blocks/first-block/__image-block/first-block__image-block.css);
 @import url(../blocks/first-block/__bottom/first-block__bottom.css);
+
+/* second-block*/
+@import url(../blocks/second-block/second-block.css);
