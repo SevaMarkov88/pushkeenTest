@@ -1,7 +1,8 @@
 .first-block__title {
-    font-family: 'TippyToes Bold', Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    font-size: 150px;
-    line-height: 179px;
-    color: #FFFFFF;
+  font-family: 'TippyToes Bold', Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 150px;
+  line-height: 179px;
+  color: #FFFFFF;
+  text-align: center;
 }

@@ -1,4 +1,5 @@
 .first-block__image-block {
-    display: flex;
-    margin: 0 -290px 0 325px;
+  display: flex;
+  margin: 0 -290px;
+  align-items: center;
 }

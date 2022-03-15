@@ -2,5 +2,6 @@
   max-width: 1295px;
   background-color: #272727;
   font-family: 'Open Sans', sans-serif;
-  margin: auto;
+  margin: 0 auto;
+  padding: 0 1em;
 }
