@@ -1,0 +1,5 @@
+.first-block__grid {
+    display: grid;
+    grid-template-columns: 70px minmax(300px, 920px) 70px;
+    justify-content: center;
+}

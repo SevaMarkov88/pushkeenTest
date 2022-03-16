@@ -1,0 +1,3 @@
+.second-block__left-text {
+    grid-template-rows: repeat(2, 48px) 91px repeat(4, 48px);
+}

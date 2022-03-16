@@ -21,6 +21,7 @@
 
 /* first-block*/
 @import url(../blocks/first-block/first-block.css);
+@import url(../blocks/first-block/__grid/first-block__grid.css);
 @import url(../blocks/first-block/__title/first-block__title.css);
 @import url(../blocks/first-block/__text_blue/first-block__text_blue.css);
 @import url(../blocks/first-block/__text_blue/_left/first-block__text_blue_left.css);
@@ -34,6 +35,15 @@
 @import url(../blocks/first-block/__token/first-block__tokens.css);
 @import url(../blocks/first-block/__image-block/first-block__image-block.css);
 @import url(../blocks/first-block/__bottom/first-block__bottom.css);
+@import url(../blocks/first-block/__big-img/first-block__big-img.css);
 
 /* second-block*/
 @import url(../blocks/second-block/second-block.css);
+@import url(../blocks/second-block/__left-text/second-block__left-text.css);
+@import url(../blocks/second-block/__center/second-block__center.css);
+@import url(../blocks/second-block/__title/second-block__title.css);
+@import url(../blocks/second-block/__text/second-block__text.css);
+@import url(../blocks/second-block/__link/second-block__link.css);
+@import url(../blocks/second-block/__right/second-block__right.css);
+@import url(../blocks/second-block/__title/_map/second-block__title_map.css);
+@import url(../blocks/second-block/__img/second-block__img.css);

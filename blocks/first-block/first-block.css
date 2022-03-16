@@ -1,6 +1,3 @@
 .first-block {
-  display: grid;
-  grid-template-columns: 70px minmax(300px, 920px) 70px;
-  margin: 8px 0 87px;
-  justify-content: center;
+  margin: 8px 0 40px;
 }

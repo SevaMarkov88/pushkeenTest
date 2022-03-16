@@ -1,0 +1,10 @@
+.second-block__title {
+    margin: 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #04F1FF;
+}
