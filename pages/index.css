@@ -56,3 +56,19 @@
 @import url(../blocks/fourth-block/__buttons/fourth-block__buttons.css);
 @import url(../blocks/fourth-block/__btn/_big/fourth-block__btn_big.css);
 @import url(../blocks/fourth-block/__btn/_active/fourth-block__btn_active.css);
+
+/* slider */
+@import url(../blocks/slider/__photo-carousel/slider__photo-carousel.css);
+@import url(../blocks/slider/__titles/slider__titles.css);
+@import url(../blocks/slider/__title/slider__title.css);
+@import url(../blocks/slider/__title/_center/slider__title_center.css);
+@import url(../blocks/slider/__buttons/slider__buttons.css);
+@import url(../blocks/slider/__link/slider__link.css);
+@import url(../blocks/slider/__title/_buttons/slidet__title_buttons.css);
+@import url(../blocks/slider/__person/slider__person.css);
+@import url(../blocks/slider/__paragraph/slider__paragraph.css);
+@import url(../blocks/slider/__left-text/slider__left-text.css);
+@import url(../blocks/slider/__right/slider__right.css);
+@import url(../blocks/slider/__right/_text-block/slider__right_text-block.css);
+@import url(../blocks/slider/__text/slider__text.css);
+@import url(../blocks/slider/__text/_name/slider__text_name.css);

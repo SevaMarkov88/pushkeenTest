@@ -1,0 +1,7 @@
+.slider__left-text {
+  display: grid;
+}
+
+.slider__left-text img:last-of-type {
+  justify-self: end;
+}

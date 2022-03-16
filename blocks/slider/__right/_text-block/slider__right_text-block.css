@@ -1,0 +1,6 @@
+.slider__right_text-block {
+  display: grid;
+  grid-template-rows: 162px 20px;
+  align-items: center;
+  gap: 115px;
+}

@@ -1,0 +1,4 @@
+.slider__photo-carousel {
+  display: flex;
+  justify-content: space-between;
+}
