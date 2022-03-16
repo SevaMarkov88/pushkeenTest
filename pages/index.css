@@ -50,3 +50,9 @@
 
 /* third-block */
 @import url(../blocks/third-block/third-block.css);
+
+/* fourth-block */
+@import url(../blocks/fourth-block/fourth-block.css);
+@import url(../blocks/fourth-block/__buttons/fourth-block__buttons.css);
+@import url(../blocks/fourth-block/__btn/_big/fourth-block__btn_big.css);
+@import url(../blocks/fourth-block/__btn/_active/fourth-block__btn_active.css);

@@ -1,3 +1,7 @@
 .main-block {
     background: url("../../images/FirstBlockBg.png") no-repeat;
 }
+
+p {
+  cursor: default;
+}

@@ -1,0 +1,8 @@
+.fourth-block__buttons {
+  display: grid;
+  grid-template-columns: repeat(2, 200px);
+  justify-content: center;
+  text-align: center;
+  gap: 23px;
+  margin: 0 0 25px 0;
+}

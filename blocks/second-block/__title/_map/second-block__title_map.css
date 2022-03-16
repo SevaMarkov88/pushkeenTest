@@ -1,13 +1,14 @@
 .second-block__title_map {
-    font-family: 'TippyToes Bold';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 48px;
-    text-align: center;
-    color: #FFFFFF;
-    margin: 0;
-    position: absolute;
-    top: 65%;
-    left: 25%;
+  font-family: 'TippyToes Bold', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  color: #FFFFFF;
+  margin: 0;
+  position: absolute;
+  top: 65%;
+  left: 25%;
+  cursor: default;
 }
