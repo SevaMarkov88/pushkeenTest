@@ -47,3 +47,6 @@
 @import url(../blocks/second-block/__right/second-block__right.css);
 @import url(../blocks/second-block/__title/_map/second-block__title_map.css);
 @import url(../blocks/second-block/__img/second-block__img.css);
+
+/* third-block */
+@import url(../blocks/third-block/third-block.css);

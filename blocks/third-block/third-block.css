@@ -1,0 +1,8 @@
+.third-block {
+  background-image: url("../../images/ThirdBlockImg.jpg");
+  height: 396px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
