@@ -2,3 +2,11 @@
   padding: 20px;
   border: 1px solid #04F1FF;
 }
+
+.slider__link:hover {
+  background: #04F1FF;
+}
+
+.slider__link:hover svg path {
+  fill: black;
+}

@@ -4,9 +4,8 @@ export default class Photo {
     this._imageBlock = imageBlock;
   }
 
-  addPhoto() {
+  renderPhoto() {
     for (let i = 0; i < this._items.length; i++) {
-      console.log(this._imageBlock[i], this._items[i]);
       this._imageBlock[i].src = this._items[i].src;
     }
   }
