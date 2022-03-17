@@ -1,3 +1,4 @@
+import './index.css';
 import {persons} from "../utils/persons.js";
 import {
     personsBlock,
@@ -27,6 +28,7 @@ previousButton.addEventListener('click', previousPerson);
 veryRareButton.addEventListener('click', () => {
     veryRareActiveBtn();
     renderSlides.renderImg(persons[persons.length - 1], persons[personNumber], persons[personNumber + 1], rareBtnActive);
+    document.scrollTop(1000, 100);
 });
 rareButton.addEventListener('click', () => {
     rareActiveBtn();
