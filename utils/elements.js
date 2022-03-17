@@ -1,17 +1,26 @@
-const photoBlock = document.querySelectorAll('.slide__img');
 const personsBlock = {
   src: document.querySelector('.slider__photo-person'),
   title: document.querySelector('.slider__title_buttons'),
   name: document.querySelector('.slider__text_name'),
-  fullName: document.querySelector('.slider__title_center'),
-  text: document.querySelector('.slider__paragraph')
+  text: document.querySelector('.slider__paragraph'),
 };
 const nextButton = document.querySelector('.next-button');
 const previousButton = document.querySelector('.previous-button');
+const slides = {
+  leftSlide: document.querySelector('.slide__img_left'),
+  centerSlide: document.querySelector('.slide__img_center'),
+  rightSlide:  document.querySelector('.slide__img_right'),
+};
+const titles = {
+  leftTitle: document.querySelector('.slider__title_left'),
+  centerTitle: document.querySelector('.slider__title_center'),
+  rightTitle: document.querySelector('.slider__title_right'),
+};
 
 export {
-  photoBlock,
   personsBlock,
   nextButton,
-  previousButton
+  previousButton,
+  slides,
+  titles
 };

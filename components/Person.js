@@ -7,7 +7,6 @@ export default class Person {
     this._personBlock.src.src = person.src;
     this._personBlock.title.textContent = person.title;
     this._personBlock.name.textContent = person.name;
-    this._personBlock.fullName.textContent = person.fullName;
     this._personBlock.text.textContent = person.text;
   }
 }
