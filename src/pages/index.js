@@ -21,18 +21,25 @@ renderSlides.renderImg(persons[persons.length - 1], persons[personNumber], perso
 renderSlides.renderTitle(persons[persons.length - 1], persons[personNumber], persons[personNumber + 1]);
 
 const renderPersonInfo = new Person(personsBlock);
-renderPersonInfo.renderPerson(persons[personNumber])
+renderPersonInfo.renderPerson(persons[personNumber]);
 
-nextButton.addEventListener('click', nextPerson);
-previousButton.addEventListener('click', previousPerson);
+nextButton.addEventListener('click', () => {
+    nextPerson();
+    scrollDown();
+});
+previousButton.addEventListener('click', () => {
+    previousPerson();
+    scrollDown();
+});
 veryRareButton.addEventListener('click', () => {
     veryRareActiveBtn();
     renderSlides.renderImg(persons[persons.length - 1], persons[personNumber], persons[personNumber + 1], rareBtnActive);
-    document.scrollTop(1000, 100);
+    scrollDown();
 });
 rareButton.addEventListener('click', () => {
     rareActiveBtn();
     renderSlides.renderImg(persons[persons.length - 1], persons[personNumber], persons[personNumber + 1], rareBtnActive);
+    scrollDown();
 })
 
 function nextPerson() {
@@ -85,4 +92,8 @@ function veryRareActiveBtn() {
         veryRareButton.classList.add('fourth-block__btn_active');
     }
     rareBtnActive = false;
+}
+
+function scrollDown() {
+    window.scrollTo(0,document.body.scrollHeight);
 }
