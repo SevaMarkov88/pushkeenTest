@@ -72,3 +72,6 @@
 @import url(../blocks/slider/__right/_text-block/slider__right_text-block.css);
 @import url(../blocks/slider/__text/slider__text.css);
 @import url(../blocks/slider/__text/_name/slider__text_name.css);
+@import url(../blocks/slider/__slide/slider__slide.css);
+@import url(../blocks/slider/__slide/__img/_left/slide__img_left.css);
+@import url(../blocks/slider/__slide/__img/_right/slide__img_right.css);

@@ -17,10 +17,15 @@ const titles = {
   rightTitle: document.querySelector('.slider__title_right'),
 };
 
+const rareButton = document.querySelector('.btn_rare');
+const veryRareButton = document.querySelector('.btn_rare_very');
+
 export {
   personsBlock,
   nextButton,
   previousButton,
   slides,
-  titles
+  titles,
+  rareButton,
+  veryRareButton
 };

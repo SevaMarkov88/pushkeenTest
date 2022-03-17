@@ -32,7 +32,7 @@ export const persons = [
     name: '@max',
     fullName: 'Макс Кулагин',
     rareImg: '../images/rarePhoto/rarePhoto3.jpg',
-    veryRareImg: './images/veryRarePhoto/veryRarePhoto3.jpg',
+    veryRareImg: '../images/veryRarePhoto/veryRarePhoto3.jpg',
     text: 'Использование визуальных эффектов в рекламных роликах позволило компаниям продвигать презентацию своих продуктов. А это является важным аспектом для любой маркетинговой кампании. От улучшения деталей и эстетики, которые способствуют построению более красивой картинки до повышения драматических моментов и увеличения общего эффекта от рекламы.',
   }
 ]
